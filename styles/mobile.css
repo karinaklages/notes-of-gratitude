@@ -1,0 +1,56 @@
+@media (max-width: 415px) {
+    input {
+        border: none;
+        padding: 6px;
+        font-size: 13px;
+        padding-left: 18px;
+        outline: none;
+        border-radius: 25px;
+        color: #9ca3c6;
+        width: 310px;
+        margin-bottom: 18px;
+    }
+
+    input::placeholder {
+        color: #9ca3c6;
+    }
+
+    .inputContainer {
+        height: 27px;
+    }
+
+    .submittedNote {
+        background-color: white;
+        margin-top: 10px;
+        border: none;
+        padding: 6px;
+        padding-left: 18px;
+        outline: none;
+        border-radius: 25px;
+        width: 310px;
+        font-size: 13px;
+        color: #9ca3c6;
+    }
+
+    .submittedContainer {
+        position: relative;
+        width: fit-content;
+        height: 27px;
+    }
+
+    .roundIcon {
+    position: absolute;
+    height: 17px;
+    opacity: 40%;
+    right: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    }
+
+    .roundIcon:hover {
+        position: absolute;
+        opacity: 60%;
+        transition: all 0.2s ease;
+    }
+}
