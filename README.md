@@ -9,6 +9,6 @@ The logic was implemented using JavaScript.
 
 ###
 
-![Fotogram](./assets/img/notes-of-gratitude.jpg)<br>
+![Notes](./assets/img/notes-of-gratitude.jpg)<br>
 
-![Fotogram](./assets/img/notes-list.jpg)
+![Notes](./assets/img/notes-list.jpg)
